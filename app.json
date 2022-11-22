@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tu-virtual-tour",
+    "slug": "tu-virtual-tour",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
